@@ -5,6 +5,8 @@ namespace DIO.SERIES
     {
         static void Main(string[] args)
         {
+            // Serie meuObjeto = new Serie();
+            
             System.Console.WriteLine("Hello World");
         }
         
