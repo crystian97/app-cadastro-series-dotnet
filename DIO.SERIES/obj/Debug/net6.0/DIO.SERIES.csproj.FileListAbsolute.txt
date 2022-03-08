@@ -1,0 +1,15 @@
+E:\cursos\Digital Innovation One\bootcamp mrv full stack\APP Simples cadastro de series .net\DIO.SERIES\bin\Debug\net6.0\DIO.SERIES.exe
+E:\cursos\Digital Innovation One\bootcamp mrv full stack\APP Simples cadastro de series .net\DIO.SERIES\bin\Debug\net6.0\DIO.SERIES.deps.json
+E:\cursos\Digital Innovation One\bootcamp mrv full stack\APP Simples cadastro de series .net\DIO.SERIES\bin\Debug\net6.0\DIO.SERIES.runtimeconfig.json
+E:\cursos\Digital Innovation One\bootcamp mrv full stack\APP Simples cadastro de series .net\DIO.SERIES\bin\Debug\net6.0\DIO.SERIES.dll
+E:\cursos\Digital Innovation One\bootcamp mrv full stack\APP Simples cadastro de series .net\DIO.SERIES\bin\Debug\net6.0\DIO.SERIES.pdb
+E:\cursos\Digital Innovation One\bootcamp mrv full stack\APP Simples cadastro de series .net\DIO.SERIES\obj\Debug\net6.0\DIO.SERIES.csproj.AssemblyReference.cache
+E:\cursos\Digital Innovation One\bootcamp mrv full stack\APP Simples cadastro de series .net\DIO.SERIES\obj\Debug\net6.0\DIO.SERIES.GeneratedMSBuildEditorConfig.editorconfig
+E:\cursos\Digital Innovation One\bootcamp mrv full stack\APP Simples cadastro de series .net\DIO.SERIES\obj\Debug\net6.0\DIO.SERIES.AssemblyInfoInputs.cache
+E:\cursos\Digital Innovation One\bootcamp mrv full stack\APP Simples cadastro de series .net\DIO.SERIES\obj\Debug\net6.0\DIO.SERIES.AssemblyInfo.cs
+E:\cursos\Digital Innovation One\bootcamp mrv full stack\APP Simples cadastro de series .net\DIO.SERIES\obj\Debug\net6.0\DIO.SERIES.csproj.CoreCompileInputs.cache
+E:\cursos\Digital Innovation One\bootcamp mrv full stack\APP Simples cadastro de series .net\DIO.SERIES\obj\Debug\net6.0\DIO.SERIES.dll
+E:\cursos\Digital Innovation One\bootcamp mrv full stack\APP Simples cadastro de series .net\DIO.SERIES\obj\Debug\net6.0\refint\DIO.SERIES.dll
+E:\cursos\Digital Innovation One\bootcamp mrv full stack\APP Simples cadastro de series .net\DIO.SERIES\obj\Debug\net6.0\DIO.SERIES.pdb
+E:\cursos\Digital Innovation One\bootcamp mrv full stack\APP Simples cadastro de series .net\DIO.SERIES\obj\Debug\net6.0\DIO.SERIES.genruntimeconfig.cache
+E:\cursos\Digital Innovation One\bootcamp mrv full stack\APP Simples cadastro de series .net\DIO.SERIES\obj\Debug\net6.0\ref\DIO.SERIES.dll
